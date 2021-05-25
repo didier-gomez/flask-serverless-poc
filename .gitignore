@@ -1,4 +1,6 @@
 node_modules/
 env/
 venv/
-.serverless/requirements/
+.env
+_meta
+.serverless
